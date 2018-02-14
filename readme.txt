@@ -6,3 +6,5 @@ git has a mutable index called stage.
 switch to a new branch dev.
 fuck you mother!
 fucking boy!
+stash
+again
